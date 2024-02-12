@@ -118,9 +118,9 @@
     }
 }
  
-@media screen and (min-width: 400px) and (max-width: 767px){
+@media screen and (min-width: 601px) and (max-width: 767px){
     .footr{
-        min-width: 400px;
+        min-width: 601px;
         max-width: 767px;
     }
     .ft .description{
