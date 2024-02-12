@@ -209,29 +209,6 @@
         justify-content: center;
     }
 }
-@media screen and (min-width: 601px) and (max-width: 767px)
-{
-    .pkg-container{
-        padding: 5px 5px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        
-    }
-    .package{
-        margin-left: 10px;
-        margin-right: 10px;
-    }
-    .pkg-p1{
-        font-size: 20px;
-        text-align: center;
-        }
-        .img-div2{
-         padding-left: 20px;
-        }
-}
-
-/*
 @media screen and (min-width: 360px) and (max-width: 767px)
 {
     .pkg-container{
